@@ -13,6 +13,8 @@ extern crate schnorrkel;
 // Originally developed (as a fork) in https://github.com/polkadot-js/schnorrkel-js/
 // which was adopted from the initial https://github.com/paritytech/schnorrkel-js/
 // forked at commit eff430ddc3090f56317c80654208b8298ef7ab3f
+// forked at commit 91709c7bcf29c994c90d97dce8e678701ff65c77
+
 
 use std::os::raw::c_ulong;
 use std::ptr;
